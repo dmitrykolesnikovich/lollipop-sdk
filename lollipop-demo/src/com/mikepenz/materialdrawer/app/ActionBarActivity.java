@@ -6,7 +6,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Toast;
 
-import lollipop.fontawesome_typeface_library.FontAwesome;
+import lollipop.util.FontAwesome;
 import lollipop.materialdrawer.Drawer;
 import lollipop.materialdrawer.DrawerBuilder;
 import lollipop.materialdrawer.model.PrimaryDrawerItem;

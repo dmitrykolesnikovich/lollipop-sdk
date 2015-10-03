@@ -5,7 +5,7 @@ import android.support.design.widget.CollapsingToolbarLayout;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 
-import lollipop.fontawesome_typeface_library.FontAwesome;
+import lollipop.util.FontAwesome;
 import lollipop.materialdrawer.AccountHeader;
 import lollipop.materialdrawer.AccountHeaderBuilder;
 import lollipop.materialdrawer.Drawer;

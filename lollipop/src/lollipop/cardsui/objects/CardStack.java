@@ -16,8 +16,8 @@ import lollipop.cardsui.StackAdapter;
 import lollipop.cardsui.SwipeDismissTouchListener;
 import com.featurea.android.R;
 import lollipop.cardsui.Utils;
-import lollipop.nineoldandroids.animation.Animator;
-import lollipop.nineoldandroids.animation.ObjectAnimator;
+import lollipop.util.nineoldandroids.animation.Animator;
+import lollipop.util.nineoldandroids.animation.ObjectAnimator;
 
 public class CardStack extends AbstractCard {
     private static final float _12F = 12f;

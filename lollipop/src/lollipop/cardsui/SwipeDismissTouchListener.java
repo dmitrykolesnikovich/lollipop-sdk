@@ -22,11 +22,11 @@ import android.view.View;
 import android.view.ViewConfiguration;
 import android.view.ViewGroup;
 
-import lollipop.nineoldandroids.animation.Animator;
-import lollipop.nineoldandroids.animation.AnimatorListenerAdapter;
-import lollipop.nineoldandroids.animation.ValueAnimator;
-import lollipop.nineoldandroids.view.ViewHelper;
-import lollipop.nineoldandroids.view.ViewPropertyAnimator;
+import lollipop.util.nineoldandroids.animation.Animator;
+import lollipop.util.nineoldandroids.animation.AnimatorListenerAdapter;
+import lollipop.util.nineoldandroids.animation.ValueAnimator;
+import lollipop.util.nineoldandroids.view.ViewHelper;
+import lollipop.util.nineoldandroids.view.ViewPropertyAnimator;
 
 /**
  * A {@link android.view.View.OnTouchListener} that makes any {@link View}

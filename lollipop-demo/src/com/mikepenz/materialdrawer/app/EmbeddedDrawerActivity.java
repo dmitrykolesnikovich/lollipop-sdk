@@ -12,8 +12,8 @@ import android.view.ViewGroup;
 import android.widget.CompoundButton;
 import android.widget.Toast;
 
-import lollipop.fontawesome_typeface_library.FontAwesome;
-import lollipop.google_material_typeface_library.GoogleMaterial;
+import lollipop.util.FontAwesome;
+import lollipop.util.GoogleMaterial;
 import lollipop.materialdrawer.AccountHeader;
 import lollipop.materialdrawer.AccountHeaderBuilder;
 import lollipop.materialdrawer.Drawer;
@@ -31,7 +31,7 @@ import lollipop.materialdrawer.model.ToggleDrawerItem;
 import lollipop.materialdrawer.model.interfaces.IDrawerItem;
 import lollipop.materialdrawer.model.interfaces.IProfile;
 import lollipop.materialdrawer.model.interfaces.Nameable;
-import lollipop.octicons_typeface_library.Octicons;
+import lollipop.util.Octicons;
 
 public class EmbeddedDrawerActivity extends AppCompatActivity {
     private static final int PROFILE_SETTING = 1;

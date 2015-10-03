@@ -4,7 +4,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 
-import lollipop.fontawesome_typeface_library.FontAwesome;
+import lollipop.util.FontAwesome;
 import lollipop.materialdrawer.Drawer;
 import lollipop.materialdrawer.DrawerBuilder;
 import lollipop.materialdrawer.model.PrimaryDrawerItem;

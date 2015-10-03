@@ -10,8 +10,8 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 
-import lollipop.fontawesome_typeface_library.FontAwesome;
-import lollipop.google_material_typeface_library.GoogleMaterial;
+import lollipop.util.FontAwesome;
+import lollipop.util.GoogleMaterial;
 import lollipop.iconics.IconicsDrawable;
 import lollipop.materialdrawer.AccountHeader;
 import lollipop.materialdrawer.AccountHeaderBuilder;

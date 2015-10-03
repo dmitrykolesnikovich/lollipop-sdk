@@ -8,7 +8,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import lollipop.fontawesome_typeface_library.FontAwesome;
+import lollipop.util.FontAwesome;
 import lollipop.materialdrawer.Drawer;
 import lollipop.materialdrawer.DrawerBuilder;
 import com.mikepenz.materialdrawer.app.R;

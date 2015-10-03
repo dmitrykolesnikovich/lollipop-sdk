@@ -7,7 +7,7 @@ import android.support.v4.app.FragmentPagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.ActionBarActivity;
 import com.mikepenz.materialdrawer.app.R;
-import lollipop.slider.PagerSlidingTabStrip;
+import lollipop.util.PagerSlidingTabStrip;
 
 public class SampleActivity extends ActionBarActivity {
 

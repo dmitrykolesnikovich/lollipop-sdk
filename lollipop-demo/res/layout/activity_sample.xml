@@ -8,7 +8,7 @@
     tools:context=".SampleActivity"
     android:background="@color/screen_bg">
 
-    <lollipop.slider.PagerSlidingTabStrip
+    <lollipop.util.PagerSlidingTabStrip
         android:id="@+id/tabs"
         android:layout_width="match_parent"
         android:layout_height="48dip"
