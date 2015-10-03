@@ -18,80 +18,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9e0ff29-9aa5-4314-9517-5590d3397dec" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="DELETED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\meteocons_typeface_library\Meteoconcs.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\animation\Animator.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\animation\AnimatorInflater.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\animation\AnimatorListenerAdapter.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\animation\ArgbEvaluator.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\animation\FloatKeyframeSet.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\animation\IntEvaluator.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\animation\IntKeyframeSet.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\animation\KeyframeSet.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\animation\ObjectAnimator.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\animation\PreHoneycombCompat.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\animation\ValueAnimator.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\util\FloatProperty.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\util\NoSuchPropertyException.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\util\Property.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\view\ViewHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\view\ViewPropertyAnimator.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\view\ViewPropertyAnimatorPreHC.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\view\animation\AnimatorProxy.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lollipop-demo/src/com/mikepenz/materialdrawer/app/ActionBarActivity.java" afterPath="$PROJECT_DIR$/lollipop-demo/src/com/mikepenz/materialdrawer/app/ActionBarActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lollipop-demo/src/com/mikepenz/materialdrawer/app/AdvancedActivity.java" afterPath="$PROJECT_DIR$/lollipop-demo/src/com/mikepenz/materialdrawer/app/AdvancedActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lollipop/src/lollipop/cardsui/objects/CardStack.java" afterPath="$PROJECT_DIR$/lollipop/src/lollipop/cardsui/objects/CardStack.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lollipop-demo/src/com/mikepenz/materialdrawer/app/CollapsingToolbarActivity.java" afterPath="$PROJECT_DIR$/lollipop-demo/src/com/mikepenz/materialdrawer/app/CollapsingToolbarActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lollipop-demo/src/com/mikepenz/materialdrawer/app/CompactHeaderDrawerActivity.java" afterPath="$PROJECT_DIR$/lollipop-demo/src/com/mikepenz/materialdrawer/app/CompactHeaderDrawerActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lollipop-demo/src/com/mikepenz/materialdrawer/app/CustomContainerActivity.java" afterPath="$PROJECT_DIR$/lollipop-demo/src/com/mikepenz/materialdrawer/app/CustomContainerActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lollipop-demo/src/com/mikepenz/materialdrawer/app/DrawerActivity.java" afterPath="$PROJECT_DIR$/lollipop-demo/src/com/mikepenz/materialdrawer/app/DrawerActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lollipop-demo/src/com/mikepenz/materialdrawer/app/Fragment/DrawerFragment.java" afterPath="$PROJECT_DIR$/lollipop-demo/src/com/mikepenz/materialdrawer/app/Fragment/DrawerFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lollipop-demo/src/com/mikepenz/materialdrawer/app/EmbeddedDrawerActivity.java" afterPath="$PROJECT_DIR$/lollipop-demo/src/com/mikepenz/materialdrawer/app/EmbeddedDrawerActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lollipop-demo/src/com/mikepenz/materialdrawer/app/FullscreenDrawerActivity.java" afterPath="$PROJECT_DIR$/lollipop-demo/src/com/mikepenz/materialdrawer/app/FullscreenDrawerActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lollipop-demo/src/com/mikepenz/materialdrawer/app/KeyboardUtilActivity.java" afterPath="$PROJECT_DIR$/lollipop-demo/src/com/mikepenz/materialdrawer/app/KeyboardUtilActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lollipop-demo/src/com/mikepenz/materialdrawer/app/MiniDrawerActivity.java" afterPath="$PROJECT_DIR$/lollipop-demo/src/com/mikepenz/materialdrawer/app/MiniDrawerActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lollipop-demo/src/com/mikepenz/materialdrawer/app/MultiDrawerActivity.java" afterPath="$PROJECT_DIR$/lollipop-demo/src/com/mikepenz/materialdrawer/app/MultiDrawerActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lollipop-demo/src/com/mikepenz/materialdrawer/app/NonTranslucentDrawerActivity.java" afterPath="$PROJECT_DIR$/lollipop-demo/src/com/mikepenz/materialdrawer/app/NonTranslucentDrawerActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lollipop-demo/src/com/github/siyamed/shapeimageview/sample/SampleActivity.java" afterPath="$PROJECT_DIR$/lollipop-demo/src/com/github/siyamed/shapeimageview/sample/SampleActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lollipop-demo/src/com/mikepenz/materialdrawer/app/Fragment/SecondDrawerFragment.java" afterPath="$PROJECT_DIR$/lollipop-demo/src/com/mikepenz/materialdrawer/app/Fragment/SecondDrawerFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lollipop/src/lollipop/cardsui/SwipeDismissTouchListener.java" afterPath="$PROJECT_DIR$/lollipop/src/lollipop/cardsui/SwipeDismissTouchListener.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lollipop-demo/res/layout/activity_sample.xml" afterPath="$PROJECT_DIR$/lollipop-demo/res/layout/activity_sample.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lollipop/AndroidManifest.xml" afterPath="$PROJECT_DIR$/lollipop/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\community_material_typeface_library\CommunityMaterial.java" afterPath="$PROJECT_DIR$/lollipop/src/lollipop/util/CommunityMaterial.java" />
-      <change type="MOVED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\fontawesome_typeface_library\FontAwesome.java" afterPath="$PROJECT_DIR$/lollipop/src/lollipop/util/FontAwesome.java" />
-      <change type="MOVED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\google_material_typeface_library\GoogleMaterial.java" afterPath="$PROJECT_DIR$/lollipop/src/lollipop/util/GoogleMaterial.java" />
-      <change type="MOVED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\meteocons_typeface_library\Meteoconcs.java" afterPath="$PROJECT_DIR$/lollipop/src/lollipop/util/Meteoconcs.java" />
-      <change type="MOVED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\animation\Animator.java" afterPath="$PROJECT_DIR$/lollipop/src/lollipop/util/nineoldandroids/animation/Animator.java" />
-      <change type="MOVED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\animation\AnimatorInflater.java" afterPath="$PROJECT_DIR$/lollipop/src/lollipop/util/nineoldandroids/animation/AnimatorInflater.java" />
-      <change type="MOVED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\animation\AnimatorListenerAdapter.java" afterPath="$PROJECT_DIR$/lollipop/src/lollipop/util/nineoldandroids/animation/AnimatorListenerAdapter.java" />
-      <change type="MOVED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\animation\AnimatorSet.java" afterPath="$PROJECT_DIR$/lollipop/src/lollipop/util/nineoldandroids/animation/AnimatorSet.java" />
-      <change type="MOVED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\animation\ArgbEvaluator.java" afterPath="$PROJECT_DIR$/lollipop/src/lollipop/util/nineoldandroids/animation/ArgbEvaluator.java" />
-      <change type="MOVED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\animation\FloatEvaluator.java" afterPath="$PROJECT_DIR$/lollipop/src/lollipop/util/nineoldandroids/animation/FloatEvaluator.java" />
-      <change type="MOVED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\animation\FloatKeyframeSet.java" afterPath="$PROJECT_DIR$/lollipop/src/lollipop/util/nineoldandroids/animation/FloatKeyframeSet.java" />
-      <change type="MOVED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\animation\IntEvaluator.java" afterPath="$PROJECT_DIR$/lollipop/src/lollipop/util/nineoldandroids/animation/IntEvaluator.java" />
-      <change type="MOVED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\animation\IntKeyframeSet.java" afterPath="$PROJECT_DIR$/lollipop/src/lollipop/util/nineoldandroids/animation/IntKeyframeSet.java" />
-      <change type="MOVED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\animation\Keyframe.java" afterPath="$PROJECT_DIR$/lollipop/src/lollipop/util/nineoldandroids/animation/Keyframe.java" />
-      <change type="MOVED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\animation\KeyframeSet.java" afterPath="$PROJECT_DIR$/lollipop/src/lollipop/util/nineoldandroids/animation/KeyframeSet.java" />
-      <change type="MOVED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\animation\ObjectAnimator.java" afterPath="$PROJECT_DIR$/lollipop/src/lollipop/util/nineoldandroids/animation/ObjectAnimator.java" />
-      <change type="MOVED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\animation\PreHoneycombCompat.java" afterPath="$PROJECT_DIR$/lollipop/src/lollipop/util/nineoldandroids/animation/PreHoneycombCompat.java" />
-      <change type="MOVED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\animation\PropertyValuesHolder.java" afterPath="$PROJECT_DIR$/lollipop/src/lollipop/util/nineoldandroids/animation/PropertyValuesHolder.java" />
-      <change type="MOVED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\animation\TimeAnimator.java" afterPath="$PROJECT_DIR$/lollipop/src/lollipop/util/nineoldandroids/animation/TimeAnimator.java" />
-      <change type="MOVED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\animation\TypeEvaluator.java" afterPath="$PROJECT_DIR$/lollipop/src/lollipop/util/nineoldandroids/animation/TypeEvaluator.java" />
-      <change type="MOVED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\animation\ValueAnimator.java" afterPath="$PROJECT_DIR$/lollipop/src/lollipop/util/nineoldandroids/animation/ValueAnimator.java" />
-      <change type="MOVED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\util\FloatProperty.java" afterPath="$PROJECT_DIR$/lollipop/src/lollipop/util/nineoldandroids/util/FloatProperty.java" />
-      <change type="MOVED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\util\IntProperty.java" afterPath="$PROJECT_DIR$/lollipop/src/lollipop/util/nineoldandroids/util/IntProperty.java" />
-      <change type="MOVED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\util\NoSuchPropertyException.java" afterPath="$PROJECT_DIR$/lollipop/src/lollipop/util/nineoldandroids/util/NoSuchPropertyException.java" />
-      <change type="MOVED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\util\Property.java" afterPath="$PROJECT_DIR$/lollipop/src/lollipop/util/nineoldandroids/util/Property.java" />
-      <change type="MOVED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\util\ReflectiveProperty.java" afterPath="$PROJECT_DIR$/lollipop/src/lollipop/util/nineoldandroids/util/ReflectiveProperty.java" />
-      <change type="MOVED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\view\ViewHelper.java" afterPath="$PROJECT_DIR$/lollipop/src/lollipop/util/nineoldandroids/view/ViewHelper.java" />
-      <change type="MOVED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\view\ViewPropertyAnimator.java" afterPath="$PROJECT_DIR$/lollipop/src/lollipop/util/nineoldandroids/view/ViewPropertyAnimator.java" />
-      <change type="MOVED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\view\ViewPropertyAnimatorHC.java" afterPath="$PROJECT_DIR$/lollipop/src/lollipop/util/nineoldandroids/view/ViewPropertyAnimatorHC.java" />
-      <change type="MOVED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\view\ViewPropertyAnimatorICS.java" afterPath="$PROJECT_DIR$/lollipop/src/lollipop/util/nineoldandroids/view/ViewPropertyAnimatorICS.java" />
-      <change type="MOVED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\view\ViewPropertyAnimatorPreHC.java" afterPath="$PROJECT_DIR$/lollipop/src/lollipop/util/nineoldandroids/view/ViewPropertyAnimatorPreHC.java" />
-      <change type="MOVED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\nineoldandroids\view\animation\AnimatorProxy.java" afterPath="$PROJECT_DIR$/lollipop/src/lollipop/util/nineoldandroids/view/animation/AnimatorProxy.java" />
-      <change type="MOVED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\octicons_typeface_library\Octicons.java" afterPath="$PROJECT_DIR$/lollipop/src/lollipop/util/Octicons.java" />
-      <change type="MOVED" beforePath="D:\pivot\lollipop-sdk\lollipop\src\lollipop\slider\PagerSlidingTabStrip.java" afterPath="$PROJECT_DIR$/lollipop/src/lollipop/util/PagerSlidingTabStrip.java" />
     </list>
     <ignored path="lollipop-sdk.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -112,35 +40,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lollipop-demo/AndroidManifest.xml">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lollipop/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-              <folding>
-                <element signature="e#626#644#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DrawerActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lollipop-demo/src/com/mikepenz/materialdrawer/app/DrawerActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-              <folding>
-                <marker date="1443875421655" expanded="true" signature="2049:2076" placeholder="//..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GoogleMaterial.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lollipop/src/lollipop/util/GoogleMaterial.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.20631067">
-              <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+              <caret line="0" column="100" selection-start-line="0" selection-start-column="100" selection-end-line="0" selection-end-column="100" />
               <folding />
             </state>
           </provider>
@@ -163,6 +67,7 @@
         <option value="$PROJECT_DIR$/lollipop/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/lollipop-demo/src/com/mikepenz/materialdrawer/app/DrawerActivity.java" />
         <option value="$PROJECT_DIR$/lollipop/src/lollipop/util/GoogleMaterial.java" />
+        <option value="$PROJECT_DIR$/lollipop/AndroidManifest.xml" />
       </list>
     </option>
   </component>
@@ -213,24 +118,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="lollipop-sdk" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lollipop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lollipop-sdk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lollipop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="lollipop" />
@@ -448,12 +335,18 @@
       <option name="project" value="LOCAL" />
       <updated>1443875249378</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="refactoring">
+      <created>1443875630305</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1443875630305</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1374" height="748" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -469,7 +362,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31405565" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31405565" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924962" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -487,7 +380,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="replace assets dir&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="replace assets dir&#10;" />
+    <MESSAGE value="refactoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactoring" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -525,15 +419,31 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
           <folding>
-            <marker date="1443875421655" expanded="true" signature="2049:2076" placeholder="//..." />
+            <marker date="1443875421655" expanded="true" signature="-1:-1" placeholder="//..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lollipop/src/lollipop/util/GoogleMaterial.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20631067">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lollipop/src/lollipop/shape/OctogonImageView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lollipop/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="100" selection-start-line="0" selection-start-column="100" selection-end-line="0" selection-end-column="100" />
           <folding />
         </state>
       </provider>
